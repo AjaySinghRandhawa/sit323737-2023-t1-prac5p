@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  app:
+    image: arandhawa98/app-nodejs
+    ports:
+      - 8080:8080
